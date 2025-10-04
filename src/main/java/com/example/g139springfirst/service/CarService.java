@@ -112,4 +112,8 @@ public class CarService {
             throw new RuntimeException("Error in updateCar");
         }
     }
+
+
+    // Комментарии:
+    // Куат
 }
