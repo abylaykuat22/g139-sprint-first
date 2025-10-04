@@ -33,5 +33,7 @@ public class PhoneService {
 
         phone.setPrice(price);
         phoneRepository.save(phone);
+
+        // comment test Daniyar
     }
 }
